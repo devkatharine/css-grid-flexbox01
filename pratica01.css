@@ -83,7 +83,7 @@ img {
     display: block;
 }
 
-@media screen (max-width: 600px) {
+@media (max-width: 600px) {
     .grid1 {
         grid-template-columns: repeat(2, 1fr);
     }
