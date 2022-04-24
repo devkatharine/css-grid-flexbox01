@@ -11,6 +11,7 @@ p {
 
 body {
     margin-bottom: 100px;
+    background-color: rgba(128, 128, 128, 0.425);
 }
 
 a {
@@ -29,7 +30,7 @@ img {
 }
 
 .header {
-    background: #1d1e20;
+    background: black;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
